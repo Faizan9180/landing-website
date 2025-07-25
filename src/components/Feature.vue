@@ -4,25 +4,25 @@ const items = [
     iconBg: "background-color: #6fe7dd",
     title: "Grow Your Business",
     description:
-      "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "You know, Jerry, it's like trying to get a reservation at Mendy's! You call, you plan, you hope the guy on the other end doesn't mess it up. But somehow, your business is still stuck in the soup line!",
   },
   {
     iconBg: "background-color: #ffc93c",
     title: "Build Products",
     description:
-      "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "I'm out there, Jerry, building products like I'm stacking cereal boxes in my apartment! But then, poof! Someone comes along and says, 'No, no, George, that's not how you make a widget!'",
   },
   {
     iconBg: "background-color: #f73859",
     title: "Success Each Day",
     description:
-      "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "Every day, Jerry, I'm out there chasing success like it's the last marble rye in the city! You grab it, you hold it, but then some old lady snatches it right out of your hands!",
   },
   {
     iconBg: "background-color: #407BFF",
     title: "Bring Ideas to Life",
     description:
-      "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+      "Kramer bursts in: 'Jerry, I got an idea! It's big, it's bold, it's gonna change the world!' Then I trip over the cord, and the whole thing goes up in smoke. But I'm still pitchin', buddy!'",
   },
 ];
 </script>
