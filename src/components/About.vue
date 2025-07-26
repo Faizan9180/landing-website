@@ -3,9 +3,9 @@ import { themeColor } from "../data/items";
 import mainPhoto from "../assets/images/about.svg";
 
 const heading = "About";
-const subHeading = "About Us";
-const totalMembers = "50";
-const totalTeam = "20";
+const subHeading = "What's the Deal with Us?";
+const totalMembers = "100";
+const totalTeam = "40";
 </script>
 
 <template>
@@ -24,17 +24,18 @@ const totalTeam = "20";
           </div>
           <div class="mb-4" data-aos="fade-up" data-aos-delay="100">
             <p>
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia, there live the blind texts. Separated
-              they live in Bookmarksgrove right at the coast
+              So we're sitting around the office, right? And somebody says, 
+              "Hey, what if we actually tried to be good at what we do?" 
+              I mean, what kind of crazy idea is that? But here we are!
             </p>
             <p>
-              Separated they
-              <span class="highlight"
-                >live in Bookmarksgrove right at the coast of the
-                Semantics</span
-              >, a large language ocean. A small river named Duden flows by
-              their place and supplies it with the necessary regelialia.
+              You know what I love about our team? 
+              <span class="highlight">
+                We're like a sitcom about nothing, except we actually get things done
+              </span>. 
+              It's like we took all the neuroses, the obsessing over details, 
+              the endless conversations about the proper way to organize a desk - 
+              and somehow turned it into a business.
             </p>
           </div>
           <ul
@@ -42,9 +43,9 @@ const totalTeam = "20";
             data-aos="fade-up"
             data-aos-delay="200"
           >
-            <li>There live the blind texts</li>
-            <li>Far far away behind the word</li>
-            <li>Their place and supplies</li>
+            <li>We argue about everything (it's productive, we swear)</li>
+            <li>No soup for bad code</li>
+            <li>Yada yada yada... success!</li>
           </ul>
           <div class="row count-numbers">
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="0">
