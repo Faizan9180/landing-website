@@ -2,27 +2,27 @@
 import { themeColor } from "../data/items";
 
 const heading = "Testimonials";
-const subHeading = "Our Customers Feedbck";
+const subHeading = "What They Say About The Contest";
 const testimonials = [
   {
-    name: "James Anderson",
-    designation: "Facebook, Product Lead",
+    name: "Jerry Seinfeld",
+    designation: "Comedian, Apartment 5A",
     quote:
-      '"Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia."',
+      '"I’m not out! I’m still in the contest! You think a little temptation can break me?"',
     photo: "images/person_1.jpg",
   },
   {
-    name: "James Anderson",
-    designation: "Facebook, Product Lead",
+    name: "George Costanza",
+    designation: "Unemployed, Lives with Parents",
     quote:
-      '"Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia."',
+      '"I’m the king of the castle! Nobody’s got more self-control than me, nobody!"',
     photo: "images/person_2.jpg",
   },
   {
-    name: "James Anderson",
-    designation: "Facebook, Product Lead",
+    name: "Elaine Benes",
+    designation: "Pendant Publishing, Editor",
     quote:
-      '"Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia."',
+      '"You guys are nuts with this contest! I’m out, and I’m glad to be out!"',
     photo: "images/person_3.jpg",
   },
 ];
